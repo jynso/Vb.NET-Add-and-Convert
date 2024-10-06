@@ -1,0 +1,16 @@
+C:\Users\ecwt2\source\repos\UnitConverter_and_Sum\UnitConverter_and_Sum\bin\Debug\net8.0-windows\UnitConverter_and_Sum.exe
+C:\Users\ecwt2\source\repos\UnitConverter_and_Sum\UnitConverter_and_Sum\bin\Debug\net8.0-windows\UnitConverter_and_Sum.deps.json
+C:\Users\ecwt2\source\repos\UnitConverter_and_Sum\UnitConverter_and_Sum\bin\Debug\net8.0-windows\UnitConverter_and_Sum.runtimeconfig.json
+C:\Users\ecwt2\source\repos\UnitConverter_and_Sum\UnitConverter_and_Sum\bin\Debug\net8.0-windows\UnitConverter_and_Sum.dll
+C:\Users\ecwt2\source\repos\UnitConverter_and_Sum\UnitConverter_and_Sum\bin\Debug\net8.0-windows\UnitConverter_and_Sum.pdb
+C:\Users\ecwt2\source\repos\UnitConverter_and_Sum\UnitConverter_and_Sum\obj\Debug\net8.0-windows\UnitConverter_and_Sum.Form1.resources
+C:\Users\ecwt2\source\repos\UnitConverter_and_Sum\UnitConverter_and_Sum\obj\Debug\net8.0-windows\UnitConverter_and_Sum.vbproj.GenerateResource.cache
+C:\Users\ecwt2\source\repos\UnitConverter_and_Sum\UnitConverter_and_Sum\obj\Debug\net8.0-windows\UnitConverter_and_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecwt2\source\repos\UnitConverter_and_Sum\UnitConverter_and_Sum\obj\Debug\net8.0-windows\UnitConverter_and_Sum.AssemblyInfoInputs.cache
+C:\Users\ecwt2\source\repos\UnitConverter_and_Sum\UnitConverter_and_Sum\obj\Debug\net8.0-windows\UnitConverter_and_Sum.AssemblyInfo.vb
+C:\Users\ecwt2\source\repos\UnitConverter_and_Sum\UnitConverter_and_Sum\obj\Debug\net8.0-windows\UnitConverter_and_Sum.vbproj.CoreCompileInputs.cache
+C:\Users\ecwt2\source\repos\UnitConverter_and_Sum\UnitConverter_and_Sum\obj\Debug\net8.0-windows\UnitConverter_and_Sum.dll
+C:\Users\ecwt2\source\repos\UnitConverter_and_Sum\UnitConverter_and_Sum\obj\Debug\net8.0-windows\refint\UnitConverter_and_Sum.dll
+C:\Users\ecwt2\source\repos\UnitConverter_and_Sum\UnitConverter_and_Sum\obj\Debug\net8.0-windows\UnitConverter_and_Sum.pdb
+C:\Users\ecwt2\source\repos\UnitConverter_and_Sum\UnitConverter_and_Sum\obj\Debug\net8.0-windows\UnitConverter_and_Sum.genruntimeconfig.cache
+C:\Users\ecwt2\source\repos\UnitConverter_and_Sum\UnitConverter_and_Sum\obj\Debug\net8.0-windows\ref\UnitConverter_and_Sum.dll

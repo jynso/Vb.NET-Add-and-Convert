@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ecwt2\\source\\repos\\Get_that_30_bro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8773EF5C-1C7C-4843-9F8E-DDC2A706A4A8}|UnitConverter_and_Sum\\UnitConverter_and_Sum.vbproj|c:\\users\\ecwt2\\source\\repos\\get_that_30_bro\\unitconverter_and_sum\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8773EF5C-1C7C-4843-9F8E-DDC2A706A4A8}|UnitConverter_and_Sum\\UnitConverter_and_Sum.vbproj|solutionrelative:unitconverter_and_sum\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8773EF5C-1C7C-4843-9F8E-DDC2A706A4A8}|UnitConverter_and_Sum\\UnitConverter_and_Sum.vbproj|c:\\users\\ecwt2\\source\\repos\\get_that_30_bro\\unitconverter_and_sum\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8773EF5C-1C7C-4843-9F8E-DDC2A706A4A8}|UnitConverter_and_Sum\\UnitConverter_and_Sum.vbproj|solutionrelative:unitconverter_and_sum\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ecwt2\\Downloads\\Calc\\Calc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calc.vb",
+              "DocumentMoniker": "C:\\Users\\ecwt2\\Downloads\\Calc\\Calc.vb",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Calc\\Calc.vb",
+              "ToolTip": "C:\\Users\\ecwt2\\Downloads\\Calc\\Calc.vb",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Calc\\Calc.vb",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAC0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-05T05:09:49.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\ecwt2\\source\\repos\\Get_that_30_bro\\UnitConverter_and_Sum\\Form1.vb",
+              "RelativeDocumentMoniker": "UnitConverter_and_Sum\\Form1.vb",
+              "ToolTip": "C:\\Users\\ecwt2\\source\\repos\\Get_that_30_bro\\UnitConverter_and_Sum\\Form1.vb*",
+              "RelativeToolTip": "UnitConverter_and_Sum\\Form1.vb*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-05T05:05:07.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ecwt2\\source\\repos\\Get_that_30_bro\\UnitConverter_and_Sum\\Form1.vb",
+              "RelativeDocumentMoniker": "UnitConverter_and_Sum\\Form1.vb",
+              "ToolTip": "C:\\Users\\ecwt2\\source\\repos\\Get_that_30_bro\\UnitConverter_and_Sum\\Form1.vb [Design]*",
+              "RelativeToolTip": "UnitConverter_and_Sum\\Form1.vb [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-05T04:49:45.656Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
